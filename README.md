@@ -1,11 +1,9 @@
-# Automated-license-plate-recoginition
-# 🚗 Automated License Plate Recognition
+🚗 Automated License Plate Recognition
 
 This project performs **Automated License Plate Recognition (ALPR)** using OpenCV, NumPy, and Tesseract OCR. It detects the license plate region from a car image and attempts to extract the plate text.
 
 ---
-
-## 📌 Features
+ 📌 Features
 
 - Detects license plates from car images
 - Uses edge detection and contour approximation
@@ -14,7 +12,7 @@ This project performs **Automated License Plate Recognition (ALPR)** using OpenC
 
 ---
 
-## 🛠️ Requirements
+🛠️ Requirements
 
 Install the required Python packages:
 
@@ -69,8 +67,7 @@ Copy
 Edit
 
 ---
-
-### ✅ To Use on GitHub:
+ ✅ To Use on GitHub:
 
 1. Save this as `README.md` in your project folder.
 2. Push the changes to your GitHub repository.
