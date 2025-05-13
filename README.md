@@ -53,21 +53,3 @@ pytesseract
 
 Google Colab tools (for display)
 
-📘 License
-This project is open-source and available under the MIT License.
-
-🤝 Contributions
-Feel free to fork, improve, and submit pull requests. All contributions are welcome!
-
-✉️ Contact
-For queries, reach out via GitHub Issues or connect with me at your-email@example.com
-
-yaml
-Copy
-Edit
-
----
- ✅ To Use on GitHub:
-
-1. Save this as `README.md` in your project folder.
-2. Push the changes to your GitHub repository.
